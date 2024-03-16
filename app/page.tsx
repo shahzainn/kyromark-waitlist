@@ -62,7 +62,7 @@ export default function Index() {
           <div className="text-2xl text-center sm:text-left">Sign up to KyroMark's waitlist</div>
         </div>
         
-        <div className="pt-8 w-full max-w-sm mx-auto space-y-4">
+        <div className="pt-8 px-4 w-full max-w-sm mx-auto space-y-4">
           <Input ref={inputRef} type="email" placeholder="Email" />
 
           <Dialog>
