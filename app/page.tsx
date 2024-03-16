@@ -54,7 +54,7 @@ export default function Index() {
         <Navbar />
       </div>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2">
+      <div className="px-4 grid grid-cols-1 sm:grid-cols-2">
         <div className="flex flex-col justify-center items-center sm:items-start sm:py-8">
 
         <div className="pt-8 w-full max-w-sm mx-auto">
