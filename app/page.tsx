@@ -43,7 +43,7 @@ export default function Index() {
         inputRef.current!.value = '';
       }
     } catch (error) {
-      console.error('Error inserting data:', error.message);
+      console.error('Error inserting data:');
     }
   };
 
